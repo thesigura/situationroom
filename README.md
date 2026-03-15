@@ -104,4 +104,9 @@ If you want a quick shareable snapshot without running Streamlit, generate:
 ./scripts/run_preview.sh
 ```
 
-Output: `preview/situation_room_preview.html`
+Outputs:
+- `preview/index.html`
+- `preview/live_feed.html`
+- `preview/account_activity.html`
+- `preview/crawler_health.html`
+- `preview/report_preview.html`
